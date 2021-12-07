@@ -1,1 +1,1 @@
-# AM3Net
+# AM<sup>3</sup>Net

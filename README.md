@@ -19,9 +19,9 @@ If you have any queries, please do not hesitate to contact me (jinping_wang@foxm
 
 
 ## Train：
--If you want to run on other dataset, conduct the *data.mat*. 
+- If you want to run on other dataset, conduct the *data.mat*. 
 
--Trento Data (Hyperspectral and LiDAR Data): Trento dataset is provided by Professor Prof. L. Bruzzone from the University of Trento.
+- Trento Data (Hyperspectral and LiDAR Data): Trento dataset is provided by Professor Prof. L. Bruzzone from the University of Trento.
 
       data.mat  [C1>>C2]
       ----> ground (H*W)

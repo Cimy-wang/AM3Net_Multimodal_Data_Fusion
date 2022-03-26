@@ -31,7 +31,7 @@ If you have any queries, please do not hesitate to contact me (jinping_wang@foxm
 - Start a Visdom server: python -m visdom.server and go to http://localhost:8097 to see the visualizations.
 
 ## Citation：
--Please cite us if our project is helpful to you!
+- Please cite us if our project is helpful to you!
 
 > J. Wang, J. Li, Y. Shi, J. Lai and X. Tan, "AM3Net: Adaptive Mutual-learning-based Multimodal Data Fusion Network," in IEEE Transactions on Circuits and Systems for Video Technology, doi:10.1109/TCSVT.2022.3148257. 2022. Early Access.
 

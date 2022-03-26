@@ -8,21 +8,14 @@ If you have any queries, please do not hesitate to contact me (jinping_wang@foxm
 
 ## Requirements：
 
-torch
-visdom
-
-numpy
-
-scipy
-
-sklearn
-
-random
-
-**mmcv==1.3.0**
-
-cupy
-
-collections
+      torch
+      visdom
+      numpy
+      scipy
+      sklearn
+      random
+      **mmcv==1.3.0**
+      cupy
+      collections
 
 

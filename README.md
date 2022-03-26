@@ -28,7 +28,7 @@ If you have any queries, please do not hesitate to contact me (jinping_wang@foxm
       ----> HSI_data (H*W*C1)
       ----> Lidar_data (H*W*C2)
       
--Start a Visdom server: python -m visdom.server and go to http://localhost:8097 to see the visualizations.
+- Start a Visdom server: python -m visdom.server and go to http://localhost:8097 to see the visualizations.
 
 ## Citation：
 -Please cite us if our project is helpful to you!

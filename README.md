@@ -5,7 +5,7 @@ We have relased the code of Adaptive Mutual-learning-based Multimodal Data Fusio
 If you have any queries, please do not hesitate to contact me (jinping_wang@foxmail.com).
 
 ## Requirements：
-​	We have tested our algorithm in the following on Windows with CUDA=11.0.
+- We have tested our algorithm in the following on Windows with CUDA=11.0.
 
       torch==1.7.0+cu110
       visdom==0.1.8
@@ -16,7 +16,7 @@ If you have any queries, please do not hesitate to contact me (jinping_wang@foxm
       mmcv==1.3.0
       cupy-cuda110==8.5.0
 
-
+- mmcn is provided by open-mmlab [https://github.com/open-mmlab/mmcv]: python setup.py install
 
 ## Train：
 - If you want to run on other dataset, conduct the *data.mat*. 

@@ -31,7 +31,9 @@ If you have any queries, please do not hesitate to contact me (jinping_wang@foxm
 
 ## Citation：
 ​	Please cite us if our project is helpful to you!
-      > J. Wang, J. Li, Y. Shi, J. Lai and X. Tan, "AM3Net: Adaptive Mutual-learning-based Multimodal Data Fusion Network," in IEEE Transactions on Circuits and Systems for Video Technology, doi:10.1109/TCSVT.2022.3148257. 2022. Early Access.
+
+> J. Wang, J. Li, Y. Shi, J. Lai and X. Tan, "AM3Net: Adaptive Mutual-learning-based Multimodal Data Fusion Network," in IEEE Transactions on Circuits and Systems for Video Technology, doi:10.1109/TCSVT.2022.3148257. 2022. Early Access.
+> 
      Bibtex format :
      > @ARTICLE{9698196,
      author={Wang, Jinping and Li, Jun and Shi, Yanli and Lai, Jianhuang and Tan, Xiaojun},

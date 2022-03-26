@@ -37,13 +37,13 @@ If you have any queries, please do not hesitate to contact me (jinping_wang@foxm
 Bibtex format :
 
 > @ARTICLE{9698196,
-     author={Wang, Jinping and Li, Jun and Shi, Yanli and Lai, Jianhuang and Tan, Xiaojun},
-     journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-     title={AM3Net: Adaptive Mutual-learning-based Multimodal Data Fusion Network}, 
-     year={2022},
-     volume={},
-     number={},
-     pages={1-16},
-     doi={10.1109/TCSVT.2022.3148257}}
+author={Wang, Jinping and Li, Jun and Shi, Yanli and Lai, Jianhuang and Tan, Xiaojun},
+journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+title={AM3Net: Adaptive Mutual-learning-based Multimodal Data Fusion Network}, 
+year={2022},
+volume={},
+number={},
+pages={1-16},
+doi={10.1109/TCSVT.2022.3148257}}
      
      

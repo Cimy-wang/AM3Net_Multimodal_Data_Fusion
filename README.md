@@ -9,7 +9,6 @@ If you have any queries, please do not hesitate to contact me (jinping_wang@foxm
 ## Requirements：
 
 torch
-
 visdom
 
 numpy

@@ -138,7 +138,7 @@ def train(model, criterion, device, train_loader, optimizer, EPOCHS, vis, val_lo
                  opts=dict(title='acc', legend=['acc', 'val_acc']),
                  update='append')
 
-        model = best_model
+    model = best_model
     end_time_train = datetime.datetime.now()
     print('||======= Train Time for % s' % (end_time_train - start_time_train), '======||')
     return model, (end_time_train - start_time_train).total_seconds()

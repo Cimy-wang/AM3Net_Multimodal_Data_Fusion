@@ -30,6 +30,9 @@ If you have any queries, please do not hesitate to contact me (jinping_wang@foxm
       
 - Start a Visdom server: python -m visdom.server and go to http://localhost:8097 to see the visualizations.
 
+## Test：
+- You can use the pre-trained models to obtain the classification results
+
 ## Citation：
 - Please cite us if our project is helpful to you!
 

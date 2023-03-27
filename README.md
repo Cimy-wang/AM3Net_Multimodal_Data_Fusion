@@ -31,7 +31,7 @@ If you have any queries, please do not hesitate to contact me (jinping_wang@foxm
 - Start a Visdom server: python -m visdom.server and go to http://localhost:8097 to see the visualizations.
 
 ## Test：
-- You can use the pre-trained models [model_Trento.pt](https://github.com/Cimy-wang/AM3Net_Multimodal_Data_Fusion/blob/main/model_Trento.pt), [model_Houston.pt](https://github.com/Cimy-wang/AM3Net_Multimodal_Data_Fusion/blob/main/model_Houston.pt), and [model_GRSS07.pt](https://github.com/Cimy-wang/AM3Net_Multimodal_Data_Fusion/blob/main/model_GRSS07.pt) to obtain the classification results
+- You can use the pre-trained models ([model_Trento.pt](https://github.com/Cimy-wang/AM3Net_Multimodal_Data_Fusion/blob/main/model_Trento.pt), [model_Houston.pt](https://github.com/Cimy-wang/AM3Net_Multimodal_Data_Fusion/blob/main/model_Houston.pt), and [model_GRSS07.pt](https://github.com/Cimy-wang/AM3Net_Multimodal_Data_Fusion/blob/main/model_GRSS07.pt)) to obtain the classification results!
 
 ## Citation：
 - Please cite us if our project is helpful to you!

@@ -42,12 +42,19 @@ Bibtex format :
 
 > @ARTICLE{9698196,
 author={Wang, Jinping and Li, Jun and Shi, Yanli and Lai, Jianhuang and Tan, Xiaojun},
+
 journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+
 title={AM$3$Net: Adaptive Mutual-learning-based Multimodal Data Fusion Network}, 
+
 year={2022},
+
 volume={32},
+
 number={8},
+
 pages={5411-5426},
+
 doi={10.1109/TCSVT.2022.3148257}}
      
      

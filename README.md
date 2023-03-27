@@ -23,7 +23,7 @@ If you have any queries, please do not hesitate to contact me (jinping_wang@foxm
 
 - Trento Data (Hyperspectral and LiDAR Data): Trento dataset is provided by Professor Prof. L. Bruzzone from the University of Trento.
 
-      data.mat  [C1>>C2]
+      data.mat  [C1 >> C2]
       ----> ground (H*W)
       ----> HSI_data (H*W*C1)
       ----> Lidar_data (H*W*C2)
